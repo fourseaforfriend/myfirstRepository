@@ -8,6 +8,6 @@ This is a test!
 #include "stdio.h"
 int main(void)
 {
-  print("Hello,world!\n");
-  return 0;
+    print("Hello,world!\n");
+    return 0;
 }
